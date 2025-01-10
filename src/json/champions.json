@@ -1,0 +1,97 @@
+{
+    "competition": "2024/25 UEFA Champions League",
+    "phase": "League Phase",
+    "matchdays": [
+      {
+        "matchday": "Matchday One",
+        "dates": ["Tuesday 17 September", "Wednesday 18 September", "Thursday 19 September"],
+        "matches": [
+          {"time": "18:45", "home": "BSC Young Boys", "away": "Aston Villa FC"},
+          {"time": "18:45", "home": "Juventus", "away": "PSV Eindhoven"},
+          {"time": "21:00", "home": "AC Milan", "away": "Liverpool FC"},
+          {"time": "21:00", "home": "FC Bayern M\u00fcnchen", "away": "GNK Dinamo"},
+          {"time": "21:00", "home": "Real Madrid C.F.", "away": "VfB Stuttgart"},
+          {"time": "21:00", "home": "Sporting Clube de Portugal", "away": "LOSC Lille"},
+          {"time": "18:45", "home": "AC Sparta Praha", "away": "FC Salzburg"},
+          {"time": "18:45", "home": "Bologna FC 1909", "away": "FC Shakhtar Donetsk"},
+          {"time": "21:00", "home": "Celtic FC", "away": "\u0160K Slovan Bratislava"},
+          {"time": "21:00", "home": "Club Brugge KV", "away": "Borussia Dortmund"},
+          {"time": "21:00", "home": "Manchester City", "away": "FC Internazionale Milano"},
+          {"time": "21:00", "home": "Paris Saint-Germain", "away": "Girona FC"}
+        ]
+      },
+      {
+        "matchday": "Matchday Two",
+        "dates": ["Tuesday 1 October", "Wednesday 2 October"],
+        "matches": [
+          {"time": "18:45", "home": "Feyenoord", "away": "Bayer 04 Leverkusen"},
+          {"time": "18:45", "home": "FK Crvena Zvezda", "away": "SL Benfica"},
+          {"time": "21:00", "home": "AS Monaco", "away": "FC Barcelona"},
+          {"time": "21:00", "home": "Atalanta BC", "away": "Arsenal FC"},
+          {"time": "21:00", "home": "Atl\u00e9tico de Madrid", "away": "RB Leipzig"},
+          {"time": "21:00", "home": "Stade Brestois 29", "away": "SK Sturm Graz"},
+          {"time": "18:45", "home": "FC Salzburg", "away": "Stade Brestois 29"},
+          {"time": "18:45", "home": "VfB Stuttgart", "away": "AC Sparta Praha"},
+          {"time": "21:00", "home": "Arsenal FC", "away": "Paris Saint-Germain"},
+          {"time": "21:00", "home": "Bayer 04 Leverkusen", "away": "AC Milan"},
+          {"time": "21:00", "home": "Borussia Dortmund", "away": "Celtic FC"},
+          {"time": "21:00", "home": "FC Barcelona", "away": "BSC Young Boys"}
+        ]
+      },
+      {
+        "matchday": "Matchday Three",
+        "dates": ["Tuesday 22 October", "Wednesday 23 October"],
+        "matches": [
+          {"time": "18:45", "home": "PSV Eindhoven", "away": "Girona FC"},
+          {"time": "18:45", "home": "\u0160K Slovan Bratislava", "away": "GNK Dinamo"},
+          {"time": "21:00", "home": "Bologna FC 1909", "away": "AS Monaco"},
+          {"time": "21:00", "home": "Borussia Dortmund", "away": "SK Sturm Graz"},
+          {"time": "21:00", "home": "Celtic FC", "away": "RB Leipzig"},
+          {"time": "21:00", "home": "Liverpool FC", "away": "Bayer 04 Leverkusen"},
+          {"time": "21:00", "home": "LOSC Lille", "away": "Juventus"},
+          {"time": "21:00", "home": "Real Madrid C.F.", "away": "AC Milan"},
+          {"time": "21:00", "home": "Sporting Clube de Portugal", "away": "Manchester City"},
+          {"time": "18:45", "home": "Club Brugge KV", "away": "Aston Villa FC"},
+          {"time": "18:45", "home": "FC Shakhtar Donetsk", "away": "BSC Young Boys"},
+          {"time": "21:00", "home": "AC Sparta Praha", "away": "Stade Brestois 29"}
+        ]
+      },
+      {
+        "matchday": "Matchday Four",
+        "dates": ["Tuesday 5 November", "Wednesday 6 November"],
+        "matches": [
+          {"time": "18:45", "home": "Atalanta BC", "away": "Celtic FC"},
+          {"time": "18:45", "home": "Stade Brestois 29", "away": "Bayer 04 Leverkusen"},
+          {"time": "21:00", "home": "Atl\u00e9tico de Madrid", "away": "LOSC Lille"},
+          {"time": "21:00", "home": "BSC Young Boys", "away": "FC Internazionale Milano"},
+          {"time": "21:00", "home": "FC Barcelona", "away": "FC Bayern M\u00fcnchen"},
+          {"time": "21:00", "home": "FC Salzburg", "away": "GNK Dinamo"},
+          {"time": "21:00", "home": "Manchester City", "away": "AC Sparta Praha"},
+          {"time": "21:00", "home": "RB Leipzig", "away": "Liverpool FC"},
+          {"time": "21:00", "home": "SL Benfica", "away": "Feyenoord"},
+          {"time": "18:45", "home": "PSV Eindhoven", "away": "Girona FC"},
+          {"time": "18:45", "home": "\u0160K Slovan Bratislava", "away": "GNK Dinamo"},
+          {"time": "21:00", "home": "Bologna FC 1909", "away": "AS Monaco"}
+        ]
+      },
+      {
+        "matchday": "Matchday Five",
+        "dates": ["Tuesday 26 November", "Wednesday 27 November"],
+        "matches": [
+          {"time": "18:45", "home": "AC Sparta Praha", "away": "Atl\u00e9tico de Madrid"},
+          {"time": "18:45", "home": "\u0160K Slovan Bratislava", "away": "AC Milan"},
+          {"time": "21:00", "home": "Bayer 04 Leverkusen", "away": "FC Salzburg"},
+          {"time": "21:00", "home": "BSC Young Boys", "away": "Atalanta BC"},
+          {"time": "21:00", "home": "FC Barcelona", "away": "Stade Brestois 29"},
+          {"time": "21:00", "home": "FC Bayern M\u00fcnchen", "away": "Paris Saint-Germain"},
+          {"time": "21:00", "home": "FC Internazionale Milano", "away": "RB Leipzig"},
+          {"time": "21:00", "home": "Manchester City", "away": "Feyenoord"},
+          {"time": "21:00", "home": "Sporting Clube de Portugal", "away": "Arsenal FC"},
+          {"time": "18:45", "home": "FK Crvena Zvezda", "away": "VfB Stuttgart"},
+          {"time": "18:45", "home": "SK Sturm Graz", "away": "Girona FC"},
+          {"time": "21:00", "home": "AS Monaco", "away": "SL Benfica"}
+        ]
+      }
+    ]
+  }
+  

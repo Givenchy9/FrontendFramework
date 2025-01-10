@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "name": "admin",
+      "password": "password123"
+    },
+    {
+      "id": 2,
+      "name": "john_doe",
+      "password": "jd2023secure"
+    },
+    {
+      "id": 3,
+      "name": "jane_smith",
+      "password": "jsmith!987"
+    },
+    {
+      "id": 4,
+      "name": "michael_b",
+      "password": "mike#2023"
+    },
+    {
+      "id": 5,
+      "name": "emily_w",
+      "password": "emily_secure88"
+    },
+    {
+      "id": 6,
+      "name": "chris_t",
+      "password": "chrisT@2023"
+    },
+    {
+      "id": 7,
+      "name": "sarah_j",
+      "password": "sarah1234"
+    },
+    {
+      "id": 8,
+      "name": "david_k",
+      "password": "davidk#567"
+    },
+    {
+      "id": 9,
+      "name": "laura_m",
+      "password": "laura!999"
+    },
+    {
+      "id": 10,
+      "name": "steven_p",
+      "password": "steven2023"
+    }
+  ]
+  
